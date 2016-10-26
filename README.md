@@ -8,7 +8,7 @@ This simple book is meant be a something like quick start guide for starter to d
 
 # Author(s)
 
-This book is written by members of [Web Intelligence Research Group][https://github.com/wi-rg) at [STMIK AKAKOM Yogyakarta](http://www.akakom.ac.id):
+This book is written by members of [Web Intelligence Research Group](https://github.com/wi-rg) at [STMIK AKAKOM Yogyakarta](http://www.akakom.ac.id):
 
 * [Bambang Purnomosidi D. P.](http://bpdp.xyz): primary author, editor, maintainer, all hands person.
 
