@@ -1,4 +1,4 @@
-![Rust4Web](images/conver.jpg)
+![Rust4Web](images/cover.jpg)
 
 # Rust for Web Development
 
