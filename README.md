@@ -23,7 +23,7 @@ You may build this book using these commands:
 * `make`: Build book in 3 formats (EPUB, HTML, dan PDF), results will be in `BUILD` directory (see [Makefile](Makefile)).
 * `make pdf` to build PDF, `make html` to biild HTML, and finally `make epub` to build EPUB.
 
-# Lisensi
+# License
 
 ![CC-BY-SA 4.0](images/cc-by-sa-4.png)
 [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
