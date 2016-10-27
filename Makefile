@@ -5,7 +5,7 @@ METADATA = metadata.xml
 CHAPTERS = contents.md chapter-01.md resources.md
 
 TOC = --toc --toc-depth=2
-COVER_IMAGE = images/cover.jpg
+COVER_IMAGE = images/cover.png
 LATEX_CLASS = report
 
 all: book
