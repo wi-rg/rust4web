@@ -2,7 +2,7 @@
 
 # Rust for Web Development
 
-This simple book is meant be a something like quick start guide for starter to develop web application using Rust. This book assumes that readers should have basic understanding of programming in Rust and also how to use Cargo for project management. That said, this book will not teach you about everything that have been discussed in [The Rust Programming Language](https://doc.rust-lang.org/book/).
+This simple book is meant to be something like a quick start guide for starter to develop web application using Rust. This book assumes that readers should have basic understanding of programming in Rust and also how to use Cargo for project management. That said, this book will not teach you about everything that have been discussed in [The Rust Programming Language book](https://doc.rust-lang.org/book/).
 
 [Read the book](contents.md).
 
