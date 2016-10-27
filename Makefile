@@ -2,7 +2,7 @@ BUILD = build
 BOOKNAME = rust4web
 TITLE = title.txt
 METADATA = metadata.xml
-CHAPTERS = contents.md chapter-01.md resources.md
+CHAPTERS = contents.md chapter-01.md chapter-02.md chapter-03.md chapter-04.md chapter-05.md chapter-06.md chapter-07.md chapter-08.md chapter-09.md chapter-10.md chapter-11.md resources.md bibs.md
 
 TOC = --toc --toc-depth=2
 COVER_IMAGE = images/cover.png
